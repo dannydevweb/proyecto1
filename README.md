@@ -1,2 +1,2 @@
 # proyecto1
-Proyecto prueba
+Proyecto prueba.
